@@ -1,0 +1,10 @@
+.target{
+  background-color: coral;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+}
+
